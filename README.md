@@ -1,32 +1,32 @@
-# PyFAANG Stock Analysis
+# Project_1
+## Project Title- PyFAANG Stock Analysis
 
-The FAANG companies, consisting of Meta, Apple, Amazon, Netflix, and Google, have become prominent industry leaders and major players in the technology sector. Understanding the stock price trends, trading volumes, and market capitalization of these companies is crucial for investors seeking to make informed investment decisions.
+### Team Member
+- Pei-Ju Wu
 
-## Project Overview
+### Project  Description/ Outline
+In this project, I analyze the historical stock data of the FAANG companies from 2012 to 2022. The goal is to gain insights into their stock price trends, trading volumes, and market capitalization during different periods, including the pre-pandemic, pandemic, and post-pandemic periods. By comparing their performance to the S&P 500 index, I aim to provide valuable insights and recommendations for potential stock investments within the FAANG group, considering investors' risk profiles. Overall, this analysis enables investors to make informed decisions in the ever-changing technology sector.
 
-In this project, we aim to analyze the historical stock data of the FAANG companies from 2012 to 2022. Our primary objectives are as follows:
 
-1. Analyze stock price trends and trading volumes of the FAANG companies over the specified period.
-2. Compare the market capitalization of the FAANG companies during three distinct periods: pre-pandemic, pandemic, and post-pandemic.
-3. Assess the performance of the FAANG companies in relation to the S&P 500 index, a widely recognized benchmark for the overall U.S. stock market.
-4. Provide insights and recommendations for potential stock investments within the FAANG group, considering the risk-taking ability of investors.
+### Reserach Questions to Answer
+1. What are the trends in stock prices and trading volumes of the FAANG companies over the specified period? How have they performed individually and collectively?
 
-## Methodology
+2. How does the market capitalization of the FAANG companies compare during three distinct periods: pre-pandemic, pandemic, and post-pandemic? Have there been significant changes in their relative rankings?
 
-We will utilize historical stock data to conduct our analysis. The key steps involved in the project include:
+3. How have the FAANG companies performed in relation to the S&P 500 index over the specified period? Have they outperformed or underperformed the broader market? What factors may have contributed to their performance?
 
-1. Data Collection: Gather historical stock price and trading volume data for Facebook, Apple, Amazon, Netflix, and Google from 2012 to 2022.
-2. Data Preprocessing: Clean and preprocess the data, ensuring it is in a suitable format for analysis.
-3. Exploratory Data Analysis: Examine stock price trends and trading volumes through visualizations, such as line graphs and bar graphs, to identify patterns and insights.
-4. Market Capitalization Analysis: Compare the market capitalization of FAANG companies during different periods, providing a comprehensive understanding of their market value dynamics.
-5. Performance Comparison: Evaluate the performance of the FAANG companies in relation to the S&P 500 index, enabling a broader perspective on their relative performance.
-6. Risk Assessment and Recommendations: Consider the risk-taking ability of investors and provide insights and recommendations for potential stock investments within the FAANG group.
+4. Based on the risk-taking ability of investors, what are the potential stock investment opportunities within the FAANG group? Which companies show potential for growth or stability, considering their historical performance and current market conditions? Are there any risks or concerns that investors should be aware of when considering investments in the FAANG stocks?
 
-## Results and Recommendations
+### Data Sources
+- Yahoo_fin Python library.
+- The Alpha Vantage API.
 
-The project will provide detailed findings and insights into the historical performance and market dynamics of the FAANG companies. Based on the analysis, we will offer recommendations for potential stock investments within the FAANG group, taking into account the risk profiles of investors.
+### Visualization Approach
+- Matplotlib, a popular Python library, was utilized for creating a diverse range of visualizations.
+- Line graphs were employed to represent stock price trends and trading volumes, enabling a clear visualization of patterns and trends over time.
+- Bar graphs were utilized for analyzing yearly trading volumes, facilitating easy comparison of volume fluctuations across different years.
+- Combined line and bar graphs were used to illustrate the impact of the pandemic on stock prices and trading volumes, providing a comprehensive view of changes during this period.
+- Multiple bar graphs were employed to depict market capitalization before, during, and after the pandemic, enabling visual understanding of fluctuations in market value.
+- A heatmap was utilized to summarize the correlation between the FAANG stocks and the S&P 500 index, offering a concise overview of their relationship.
 
-## Conclusion
-
-This project aims to provide investors with a comprehensive understanding of the FAANG companies' stock price trends, trading volumes, and market capitalization dynamics. By leveraging historical data and conducting a thorough analysis, investors can make informed decisions and navigate the complex technology sector with confidence.
 
