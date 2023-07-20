@@ -28,5 +28,3 @@ In this project, I analyze the historical stock data of the FAANG companies from
 - Combined line and bar graphs were used to illustrate the impact of the pandemic on stock prices and trading volumes, providing a comprehensive view of changes during this period.
 - Multiple bar graphs were employed to depict market capitalization before, during, and after the pandemic, enabling visual understanding of fluctuations in market value.
 - A heatmap was utilized to summarize the correlation between the FAANG stocks and the S&P 500 index, offering a concise overview of their relationship.
-
-
