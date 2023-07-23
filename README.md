@@ -4,7 +4,7 @@
 ### Team Member
 - Pei-Ju Wu
 
-### Project  Description/ Outline
+### Project  Introduction
 In this project, I analyze the historical stock data of the FAANG companies from 2012 to 2022. The goal is to gain insights into their stock price trends, trading volumes, and market capitalization during different periods, including the pre-pandemic, pandemic, and post-pandemic periods. By comparing their performance to the S&P 500 index, I aim to provide valuable insights and recommendations for potential stock investments within the FAANG group, considering investors' risk profiles. Overall, this analysis enables investors to make informed decisions in the ever-changing technology sector.
 
 
@@ -20,6 +20,9 @@ In this project, I analyze the historical stock data of the FAANG companies from
 ### Data Sources
 - Yahoo_fin Python library.
 - The Alpha Vantage API.
+
+### Data Manipulation and Analysis
+- Pandas
 
 ### Visualization Approach
 - Matplotlib, a popular Python library, was utilized for creating a diverse range of visualizations.
