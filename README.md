@@ -1,5 +1,4 @@
-# Project_1
-## Project Title- PyFAANG Stock Analysis
+# PyFAANG Stock Analysis
 
 ### Team Member
 - Pei-Ju Wu
